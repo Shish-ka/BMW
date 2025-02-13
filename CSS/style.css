@@ -1,0 +1,8 @@
+body {
+    display: grid;
+    row-gap: 50px;
+    padding: 50px 25px;
+}
+.b {
+    display: block;
+}
